@@ -1,4 +1,4 @@
-# DockerCommand🐳 
+# DockerCommand🐳 [might be useful]
 
 docker build -t discord-docker //building docker program
 
